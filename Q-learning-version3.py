@@ -22,6 +22,7 @@ location_to_state = {'A':0,
 # Defining the actions - Định nghĩa các hành động
 actions = [0,1,2,3,4,5,6,7,8,9,10,11]
 # Defining the rewards
+'''
 R = np.array([  [0,1,0,0,0,0,0,0,0,0,0,0],
                 [1,0,1,0,0,1,0,0,0,0,0,0],
                 [0,1,0,0,0,0,1,0,0,0,0,0],
@@ -34,7 +35,20 @@ R = np.array([  [0,1,0,0,0,0,0,0,0,0,0,0],
                 [0,0,0,0,0,1,0,0,1,0,1,0],
                 [0,0,0,0,0,0,0,0,0,1,0,1],
                 [0,0,0,0,0,0,0,1,0,0,1,0]])
+'''
 
+R = np.array([[0,1,0,0,0,0,0,0,0,0,0,0],
+              [1,0,1,0,0,1,0,0,0,0,0,0],
+              [0,1,0,0,0,0,1,0,0,0,0,0],
+              [0,0,0,0,0,0,0,1,0,0,0,0],
+              [0,0,0,0,0,0,0,0,1,0,0,0],
+              [0,1,0,0,0,0,0,0,0,1,0,0],
+              [0,0,1,0,0,0,1,1,0,0,0,0],
+              [0,0,0,1,0,0,1,0,0,0,0,1],
+              [0,0,0,0,1,0,0,0,0,1,0,0],
+              [0,0,0,0,0,1,0,0,1,0,1,0],
+              [0,0,0,0,0,0,0,0,0,1,0,1],
+              [0,0,0,0,0,0,0,1,0,0,1,0]])
 # PART 2 - BUILDING THE AI SOLUTION WITH Q-LEARNING - Thuật toán Q-learning
 
 
@@ -58,7 +72,7 @@ def route(starting_location, ending_location):
         # Duyệt qua tất cả các node (12 đỉnh) -> Nếu R (reward) >0 có nghĩa là có đường đi từ node hiện tại đến node đó
         # bổ sung vào danh sách các node có thể đi tới (action=hành động đi tới)
         for j in range(12):
-            if R[curent_state, j] > 0:
+            if R_new[curent_state, j] > 0:#R[curent_state, j] > 0: -->lỗi không đổi hết tên ->
                 playable_action.append(j)
         # chọn ngẫu nghiên 1 node để đi tới-next_state = action = a
         next_state = np.random.choice(playable_action)
@@ -88,6 +102,6 @@ def best_route(starting_location, imtermediary_location, ending_location):
 
 print('Route:')
 
-#route('E','K')
+route('E','K')
 #best_route('E','K','G')
 #route('K','G')
