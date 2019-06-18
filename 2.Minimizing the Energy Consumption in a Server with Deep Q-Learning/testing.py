@@ -33,7 +33,7 @@ train = False
 # RUNNING A 1 YEAR SIMULATION IN INFERENCE MODE
 env.train = train
 current_state, _, _ = env.observe()
-for timestep in range(0, 12 * 30 * 24 * 60):
+for timestep in range(0, 60):#12 * 30 * 24 * 60
     q_values = model.predict(current_state)
     action = np.argmax(q_values[0])
     if (action - direction_boundary < 0):
