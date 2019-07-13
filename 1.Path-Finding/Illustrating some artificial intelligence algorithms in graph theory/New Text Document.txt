@@ -1,0 +1,38 @@
+{//for of break
+						if(dinh.DS_Dinh_con.Count==0&&Class_MienDoThi_VH.Giai_duoc(dinh.chiso))
+						{//if la dinh la
+							if(Class_MienDoThi_VH.Giai_duoc(n))
+							{
+								Co_loi_giai=true;
+								//Cay loi giai
+								//thoat
+							}
+							foreach(int j in Open)
+								if(Class_MienDoThi_VH.Giai_duoc(j)) Open.RemoveAt(Open.IndexOf(j));
+						}//if la dinh la
+						else
+						{//if khong la dinh la
+							if(dinh.DS_Dinh_con.Count>0)
+								foreach(int j in dinh.DS_Dinh_con)
+								{
+									Open.Add(j);
+								//	Xac_Dinh_lai_HoI(j);
+								}
+							else
+							{
+								if(Class_MienDoThi_VH.Khong_giai_duoc(i))
+								{
+									if(Class_MienDoThi_VH.Khong_giai_duoc(n))
+									{
+										//exit
+									}
+									foreach(int j in Open)
+										if(Class_MienDoThi_VH.Khong_giai_duoc(j)) Open.RemoveAt(Open.IndexOf(j));
+									foreach(int j in Close)
+										Xac_Dinh_lai_HoI(j);
+								}
+							}
+						}//if khong la dinh la
+
+						break;
+		     		}

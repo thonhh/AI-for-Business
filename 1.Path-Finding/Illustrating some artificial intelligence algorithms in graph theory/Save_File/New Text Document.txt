@@ -1,0 +1,70 @@
+public void Tim_theo_chieu_rong()
+		{
+			Khoi_tao();
+			n0=Class_MienDoThi_VH.chiso_1;
+			int n;
+			Class_Queue Open=new Class_Queue(),Close=new Class_Queue();
+			Open.Append(n0);
+			richTextBox_Open.Text+=Open.List_Queue()+"\n";
+			richTextBox_n.Text+="\n";
+			richTextBox_Tn.Text+="\n";
+			richTextBox_Close.Text+="\n";
+			bool thoat_while=false,chung_minh_duoc=false;
+			while (!Open.Is_empty()&& !thoat_while)
+			{
+				n=Open.Take();
+				richTextBox_n.Text+=n.ToString()+"\n";
+				Close.Append(n);
+				richTextBox_Close.Text+=Close.List_Queue()+"\n";
+				bool kt=false;
+				foreach(Class_DinhDoThi obj in Class_MienDoThi_VH.DS_Dinh)
+				{
+					if (obj.Thuoc_DS_con(n,obj.chiso))
+					{
+						richTextBox_Tn.Text+=obj.chiso.ToString()+" ";
+						kt=true;
+						if (!Open.In_list(obj.chiso))
+							Open.Append(obj.chiso);
+						if (obj.DS_Dinh_con.Count==0)
+						{
+							if (Class_MienDoThi_VH.Giai_duoc(obj.chiso))
+							{
+								if (Class_MienDoThi_VH.Giai_duoc(n0))
+								{
+									richTextBox_Tn.Text+="Gi?i du?c "+n0.ToString()+"\n";
+									chung_minh_duoc=true;
+									thoat_while=true;
+									break;
+								}
+							}
+							else
+							{
+								if (Class_MienDoThi_VH.Khong_giai_duoc(obj.chiso))
+								{
+									if (Class_MienDoThi_VH.Giai_duoc(n0))
+									{
+										richTextBox_Tn.Text+="Không gi?i du?c "+n0.ToString()+"\n";
+										chung_minh_duoc=false;
+										thoat_while=true;
+										break;
+									}
+								}
+							}
+						}
+					}
+				}
+				if (!kt && Class_MienDoThi_VH.Giai_duoc(n))
+				{
+				
+					richTextBox_Tn.Text+="d?nh so c?p";
+				}
+				richTextBox_Open.Text+=Open.List_Queue()+"\n";
+				richTextBox_Tn.Text+="\n";
+			}
+			if (chung_minh_duoc)
+			{
+				richTextBox_Kq.Text="K?t lu?n: Ch?ng minh du?c "+n0.ToString();
+			}
+			else
+				richTextBox_Kq.Text="K?t lu?n: Không ch?ng minh du?c "+n0.ToString();
+		}
