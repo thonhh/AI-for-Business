@@ -102,6 +102,6 @@ def best_route(starting_location, imtermediary_location, ending_location):
 
 print('Route:')
 
-route('E','K')
-#best_route('E','K','G')
+#route('E','K')
+best_route('E','K','G')
 #route('K','G')
