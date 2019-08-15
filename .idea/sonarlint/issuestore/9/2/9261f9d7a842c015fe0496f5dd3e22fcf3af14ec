@@ -1,0 +1,18 @@
+
+spython:S117E"WRename this local variable "xStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(–Ä¢Íşÿÿÿÿ
+lpython:S117"PRename this parameter "yPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜Ôşúÿÿÿÿ
+mpython:S117"QRename this parameter "yDest" to match the regular expression ^[_a-z][a-z0-9_]*$.( ¢´‚øÿÿÿÿ
+mpython:S117'"QRename this parameter "yDest" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í‡Õ¿øÿÿÿÿ
+mpython:S117"QRename this parameter "xDest" to match the regular expression ^[_a-z][a-z0-9_]*$.( ¢´‚øÿÿÿÿ
+qpython:S100"URename method "updatePriority" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.( ¢´‚øÿÿÿÿ
+npython:S15425"QRename function "pathFind" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(õÕ°¸øÿÿÿÿ
+opython:S1175"SRename this parameter "yFinish" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÕ°¸øÿÿÿÿ
+opython:S1175"SRename this parameter "xFinish" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÕ°¸øÿÿÿÿ
+npython:S1175"RRename this parameter "xStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÕ°¸øÿÿÿÿ
+ipython:S1075"MFunction "pathFind" has 8 parameters, which is greater than the 7 authorized.(õÕ°¸øÿÿÿÿ
+qpython:S37765"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(õÕ°¸øÿÿÿÿ
+mpython:S117'"QRename this parameter "xDest" to match the regular expression ^[_a-z][a-z0-9_]*$.(Í‡Õ¿øÿÿÿÿ
+npython:S1175"RRename this parameter "yStart" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÕ°¸øÿÿÿÿ
+lpython:S117"PRename this parameter "xPos" to match the regular expression ^[_a-z][a-z0-9_]*$.(˜Ôşúÿÿÿÿ
+bpython:S116"LRename this field "xPos" to match the regular expression ^[_a-z][_a-z0-9]*$.(Éî˜:
+hpython:S116"LRename this field "yPos" to match the regular expression ^[_a-z][_a-z0-9]*$.(ª•‚çúÿÿÿÿ

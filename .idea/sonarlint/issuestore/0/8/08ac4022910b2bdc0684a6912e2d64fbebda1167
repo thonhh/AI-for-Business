@@ -1,0 +1,6 @@
+
+6python:S125G"Remove this commented out code.(ù¯µÉ
+Hpython:S1066«"/Merge this if statement with the enclosing one.(Ûõ¢Ö
+qpython:S3776M"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(üâÄŽøÿÿÿÿ
+spython:S3776Š"URefactor this function to reduce its Cognitive Complexity from 132 to the 15 allowed.(ìƒ˜þüÿÿÿÿ
+npython:S117N"RRename this parameter "use_CP" to match the regular expression ^[_a-z][a-z0-9_]*$.(†Ó®áøÿÿÿÿ

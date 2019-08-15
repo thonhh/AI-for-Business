@@ -1,0 +1,10 @@
+
+Bpython:S125"Remove this commented out code.(ÜÔ¹¸øÿÿÿÿ8ê°îÕÈ-
+rpython:S1542Ç"TRename function "getDiscount" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Ô§†şÿÿÿÿ
+=python:S125"Remove this commented out code.(²Á»ù8‘…âÕÈ-
+qpython:S1542ï"SRename function "showExpand" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(†ÍÓ·úÿÿÿÿ
+;python:S125T"Remove this commented out code.(Ùşóùÿÿÿÿ
+kpython:S1542”"RRename function "printName" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ïæÙ«
+hpython:S1542‡"ORename function "noPath" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(İÁªİ
+=python:S125"Remove this commented out code.(åÅŸõ8¼ÏéÕÈ-
+jpython:S1542Ô"QRename function "setStart" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Šö¬æ

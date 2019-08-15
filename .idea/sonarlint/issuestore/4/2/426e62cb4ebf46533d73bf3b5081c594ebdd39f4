@@ -1,0 +1,8 @@
+
+dpython:S100="HRename method "y" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(áÆùžûÿÿÿÿ
+<python:S125¼"Remove this commented out code.(ªêÓ’ûÿÿÿÿ
+7python:S125²"Remove this commented out code.(õå½™
+7python:S125À"Remove this commented out code.(¹ºáé
+dpython:S100:"HRename method "x" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ÃÜ£çÿÿÿÿÿ
+;python:S125"Remove this commented out code.(ÄÕ…ìýÿÿÿÿ
+<python:S125¶"Remove this commented out code.(ó‡æûÿÿÿÿ

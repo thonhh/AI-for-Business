@@ -209,3 +209,97 @@ k1.Path-Finding/Illustrating some artificial intelligence algorithms in graph th
 p1.Path-Finding/Illustrating some artificial intelligence algorithms in graph theory/Tri_tue_nhan_tao.csproj.user,3\6\36099fac6d4a84b89c7049fa0719b4d31655b22d
 ò
 h1.Path-Finding/Illustrating some artificial intelligence algorithms in graph theory/Tri_tue_nhan_tao.sln,2\b\2b2dbb08b7fd9d14c5133289d8f3f7679be51dbc
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map1.txt,3\d\3d6626d5b367d7777d51aedf95364d9ca9aeb256
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map2.txt,a\7\a7dc5bc433ff58f7b72d56c75663c30df91f5f00
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map3.txt,6\a\6a4f678bad5cc71dd0b8d73b815e0b92cd6d8267
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map4.txt,6\a\6ab8c907f19c8a84aec808afd7058242a06c0bf6
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map5.txt,e\2\e2b44a99b7287d8fd59ce531c42a8c267136665e
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map6.txt,4\b\4b385e87e634e84a13715aaf3fcb2a7512c84559
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map7.txt,4\2\427d530082ae45c101a2a3dd91349adb16667100
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/map8.txt,5\f\5f2683a72b839a2b256827ac57e45bb7077c898d
+õ
+k1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/AStar-Maps/README.md,f\1\f11bad02c22ba0f8d277c22669b41cd03d10f078
+ó
+g1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/Images/README.md,c\9\c9999c8e8c11e23fea92dfc70a5e4383144b1d04
+ê
+`1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/README.md,b\4\b427ebf96e6d9ee643ee9e062984d9fb9d537376
+è
+_1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/World.py,e\9\e9a003d8e8e08d244062569c026a8f0bdb15e663
+†
+p1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/Images/README.md,c\d\cdc77a5068099050304a5b2614a2425b5a388236
+ü
+o1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/Q-Maps/map1.txt,4\8\4830357890fa64b1f3c7a245bdd6165deaa71cff
+ü
+o1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/Q-Maps/map2.txt,d\7\d78ad156e3ff85425167185df9006b3652af63ad
+ü
+o1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/Q-Maps/map3.txt,8\5\852bbac19686786f1f37b5a15b41b5bea46a559e
+†
+p1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/Q-Maps/README.md,1\2\12bc5cdad0b27ed5879260a6c9f579c276de11c0
+¢
+r1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/q_deterministic.py,f\c\fc13d7877c459d7afe610385652118a6315d6ae3
+ü
+o1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/q_stochastic.py,6\e\6ea5fb2ce4db5a81534bfd2a1f8b01e80a690d89
+ô
+i1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/README.md,1\c\1c0db0594abd9778162e8e1cb7615d8b9e001971
+ò
+h1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Reinforcement Learning using Q-Learning/World.py,a\3\a3822d6f2ec666783ff7de695fae3241d62c1a2f
+C
+hs_err_pid10264.log,7\e\7ee75e1ed9e8cd583f879c09f14d524d8e625b0d
+è
+_1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Grid World using A Star Search/astar.py,c\b\cba5cf4aca83d1ca593984ddb65f6857a5c3a776
+ì
+c1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/A_star_example.py,9\2\9261f9d7a842c015fe0496f5dd3e22fcf3af14ec
+ì
+c1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/A_star_fastest.py,c\d\cd0196e9743d87ec79ae002424fb3b709631604d
+ó
+g1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/alpha_beta_pruning.py,e\4\e4107fc44209a5144ee5b3537a4e9d3d1f3acfcc
+ã
+[1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/bfs_v2.py,2\0\20e76f52d2ac428343a12240e8b5e1e38eeb7771
+ò
+h1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/breadth_first_seach.py,b\c\bc7b1349954805c5cb7dd666c40e9d6b3e4b4925
+å
+\1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/genetic.py,f\c\fce2cae89ffa38a5f1349d5d63e1087dd002e807
+ò
+h1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/data_structures/directed_graph.py,7\f\7f827600c21e00b847f6406df11ec5b2ea1dc82a
+ì
+c1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/data_structures/game_tree.py,0\d\0d5decb97798d5cac0b7f4f334c965856ff85b14
+ö
+j1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/data_structures/indirected_graph.py,b\a\bab1abf9ba4b314fa8e51ff0bedf8d1a6f7af72f
+ò
+h1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/data_structures/weighted_graph.py,9\7\978bee625fd77cab33466f1d75d4353375471676
+Å
+Q1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/.gitignore,e\4\e4d017bb3d29433e3c79000cef1d7bae0aaaa75b
+ë
+a1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/canonical_D&C_algorithm.py,c\0\c0f43761c11261e07632f9d2e4e3497414778185
+è
+_1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/decorator with memory.py,4\3\433cdb5a6b2cf13e95a36cc93942241bd77da5e6
+â
+Y1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/gradient_ascent.py,3\9\396f759f9e82f68a846a431df9cf9d93dc7b44a2
+Ä
+P1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/readme.md,7\7\77469f3896ce5fb14d7a9d815ba989ebabf7e9b1
+~
+N1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/task.py,2\5\25af96f24306e43b96a25fbd37bd06ce4579facc
+å
+\1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/minimax.py,0\4\0457a62b3f83d76cddb896e654b0b976e0b83c9d
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+q
+A1.Path-Finding/Path_Planning_and_Reinforcement_Learning/README.md,b\f\bfd387a0b9a268ba4c87b2585752021f92e0404f
+H
+1.Path-Finding/README.md,1\4\148cfa2babd141e9fe9f45ccb92d0bf258fbd018
+ñ
+f1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Metaheuristics/algorithms/A_star_pathfinder.py,4\2\426e62cb4ebf46533d73bf3b5081c594ebdd39f4
+ù
+m1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Production Scheduling with Power-Saving Modes/main.py,5\7\5729c2075618afce38def0d3f021384124b8fa97
+ü
+o1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Production Scheduling with Power-Saving Modes/solver.py,0\8\08ac4022910b2bdc0684a6912e2d64fbebda1167
+ü
+o1.Path-Finding/Path_Planning_and_Reinforcement_Learning/Production Scheduling with Power-Saving Modes/README.md,0\9\09366cde576bcbb2c3406e6e78fe97dd35113bbe
